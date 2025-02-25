@@ -5,3 +5,6 @@ Dubái es una ciudad de los Emiratos Árabes Unidos (EAU) que se caracteriza por
 
 ##Recomendacion
 visitar el Burj Khalifa.
+
+## Foto
+![Burj Khalifa](https://rvututenhurcntuuetnfgueu)
