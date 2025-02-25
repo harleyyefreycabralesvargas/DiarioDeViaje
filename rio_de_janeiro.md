@@ -5,3 +5,6 @@ Río de Janeiro es una ciudad brasileña que destaca por sus playas, su carnaval
 
 ##Recomendacion
 Visitar la estatua de Cristo el Redentor. 
+
+## Foto
+![Estatua de Cristo el Redentor](https://uoervnmsnusvnismdeurfgfneurneuin)
