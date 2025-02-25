@@ -5,3 +5,6 @@ Ciudad de Estados Unidos que se caracteriza por ser un centro financiero y cultu
 
 ## Recomendación
 Saludar a la Estatua de la Libertad
+
+## Foto
+![Estatua de la libertad](https://irbiopverfmnbmfivuvunegv)
